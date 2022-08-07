@@ -1,8 +1,1 @@
-This is asample text file, text is ok
-
-dsfsdf
-sdf
-sd
-s
-df
-sdfsdf
+This is a sample file, text is ok. File updating
