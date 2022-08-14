@@ -1,1 +1,2 @@
 This is a sample file, text is ok. File updating
+Update on bitbucket remote repo
